@@ -16,6 +16,7 @@ cd kodluyoruzilkrepo
 # Contributing
 Pull requestler kabul edilir . Büyük değişiklikler için , lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
 
+
 # License
 [MIT](https://www.mit.edu)
 
